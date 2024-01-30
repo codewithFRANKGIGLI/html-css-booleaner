@@ -69,9 +69,9 @@ table {
 }
 
 #interesse1 {
-    background-image: url("/img/monitor.jpg");
+    background-image: url("./img/monitor.jpg");
 }
 
 #interesse2 {
-    background-image: url("/img/graph.jpg");
+    background-image: url("./img/graph.jpg");
 }
