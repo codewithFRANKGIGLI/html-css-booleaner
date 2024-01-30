@@ -63,9 +63,9 @@ table {
 .img-text {
     color: white;
     font-size: 25px;
-    height: 220px;
-    width: 300px;
-    background-repeat: no-repeat;
+    height: 208px;
+    width: 312px;
+    background-size: cover;
     padding: 10px;
 }
 
